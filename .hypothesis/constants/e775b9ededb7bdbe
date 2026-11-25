@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/quicksight/agent.py
+# hypothesis_version: 6.151.9
+
+[300, '; ', 'ACTIVE', 'ActionConnectors', 'Actions', 'Agent', 'AgentId', 'AgentLifecycle', 'AgentStatus', 'Arn', 'AwsAccountId', 'CREATING', 'CustomPromptInput', 'Description', 'FAILED', 'Name', 'NewPrompt', 'Principal', 'Spaces', 'SpacesToAdd', 'SpacesToRemove', 'StarterPrompts', 'UPDATING', 'WelcomeMessage', 'action', 'actionConnectors', 'agentId', 'arn', 'connectors', 'created', 'dependsOn', 'description', 'lifecycle', 'name', 'persona', 'quicksight', 'spaces', 'starterPrompts', 'starter_prompts', 'unchanged', 'updated', 'welcomeMessage', 'welcome_message']

@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/account_mapper.py
+# hypothesis_version: 6.151.9
+
+['\n❌ Operation failed\n', '=', 'account_map', 'account_map_view', 'cancelled', 'config_view', 'exit', 'file_source', 'file_source_view', 'metadata', 'modify', 'regenerate', 'status', 'success', 'taxonomy_dimensions', '🚪 Exit']

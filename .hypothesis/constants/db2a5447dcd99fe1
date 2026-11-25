@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/taxonomy_merger.py
+# hypothesis_version: 6.151.9
+
+['+', ',', ', ', '=', 'IAM principal tags', '[_\\W]+', '\\W', '_', '_merged', 'account', 'account mapping', 'account tags', 'account_tag_', 'attribute', 'category', 'cost', 'cost categories', 'cost_category_', 'iam', 'iam_principal_tag_', 'merged', 'merged_', 'no', 'other', 'principal', 'resource tags', 'tag', 'tag_', 'taxonomy-merge-keep', 'taxonomy-merges', 'user', 'user attributes', 'user_attribute_tag_', 'yes']

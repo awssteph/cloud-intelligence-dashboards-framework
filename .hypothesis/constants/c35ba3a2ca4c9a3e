@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/csv2view.py
+# hypothesis_version: 6.151.9
+
+[262144, '\n, ', "'", "''", ', ', '.sql', '[^0-9a-zA-Z]+', '_', 'ignore', 'utf-8', 'utf-8-sig', 'w', '\ufeff']

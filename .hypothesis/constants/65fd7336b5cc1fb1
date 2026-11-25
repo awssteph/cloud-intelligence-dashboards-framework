@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/account_map.py
+# hypothesis_version: 6.151.9
+
+[1000, "'", "''", ',', '0', '2', 'Accounts', 'Columns', 'Database', 'EXTERNAL_TABLE', 'Email', 'Enter file path', 'File', 'Id', 'Name', 'Status', 'TableType', '_', 'acc_metadata_details', 'account-map-file', 'account-map-source', 'account_email', 'account_id', 'account_map', 'account_name', 'account_status', 'accountid', 'athena_view_name', 'aws_accounts', 'cid.builtin.core', 'csv', 'cur_database', 'cur_table_name', 'data', 'dummy', 'email', 'id', 'list_accounts', 'metadata_table_name', 'name', 'organisation_data', 'organization', 'organization_data', 'organizations', 'parent_account_id', 'providedBy', 'rows', 'status', 'unknown', 'views']

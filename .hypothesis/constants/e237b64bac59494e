@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/s3.py
+# hypothesis_version: 6.151.9
+
+[404, '$', '*', '.+?', '/', 'ACL', 'AES256', 'Bucket', 'Buckets', 'Code', 'Contents[].Key', 'Days', 'Enabled', 'Error', 'Expiration', 'ExpireAfter14Days', 'Filter', 'ID', 'LocationConstraint', 'Name', 'Prefix', 'Rules', 'SSEAlgorithm', 'Status', 'list_objects_v2', 'private', 's3', 'us-east-1']

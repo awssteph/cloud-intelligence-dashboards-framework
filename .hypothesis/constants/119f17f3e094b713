@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/quicksight/dashboard.py
+# hypothesis_version: 6.151.9
+
+['\n#######', '  <BOLD>Owners:<END>', '/', '/version/', ':', '<BLUE>DIRECT<END>', 'AccessDenied', 'Actions', 'Arn', 'CREATION_SUCCESSFUL', 'DISABLED', 'DashboardId', 'DataSetArns', 'ENABLED', 'Principal', 'SourceEntityArn', 'Status', 'Version', 'account_id', 'broken', 'cid_version_tag', 'dashboardId', 'data', 'dependsOn', 'legacy', 'minTemplateVersion', 'region', 'resiliencevue', 'sourceAccountId', 'template/', 'templateId', 'template_id', 'undetermined', 'undiscovered', 'up to date', 'us-east-1', 'user/default/', 'v1.0.0', 'version', 'version_number', 'versions', 'views', '🔐', '🔓']

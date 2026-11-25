@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/randtime.py
+# hypothesis_version: 6.151.9
+
+[100, '%H:%M', '-', 'little', 'utf-8']

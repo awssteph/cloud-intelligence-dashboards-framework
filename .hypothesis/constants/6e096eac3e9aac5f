@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/quicksight/definition.py
+# hypothesis_version: 6.151.9
+
+[' | ', '([vV]\\d+\\.\\d+)', '([vV]\\d+\\.\\d+\\.\\d+)', 'About', 'Content', 'CustomNarrative', 'InsightConfiguration', 'InsightVisual', 'Name', 'Narrative', 'Sheets', 'TextBoxes', 'Visuals']

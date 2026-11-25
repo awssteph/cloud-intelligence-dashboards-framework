@@ -6,6 +6,7 @@
 Resources:
   # Agents: what create-agent / update-agent / delete-agent deploy
   - Url: agents/finops/finops.yaml
+  - Url: agents/tokenomics/tokenomics.yaml
   - Url: agents/operations/operations.yaml
   - Url: agents/security/security.yaml
   - Url: agents/resilience/resilience.yaml
@@ -16,6 +17,7 @@ Resources:
   # deployed on their own: create-agent / update-agent create or update the Space of
   # the agent being deployed.
   - Url: spaces/cid-finops-space.yaml
+  - Url: spaces/cid-tokenomics-space.yaml
   - Url: spaces/cid-operations-space.yaml
   - Url: spaces/cid-security-space.yaml
   - Url: spaces/cid-resilience-space.yaml

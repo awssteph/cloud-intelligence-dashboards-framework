@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/quicksight/space.py
+# hypothesis_version: 6.151.9
+
+[300, '<unknown>', 'Actions', 'AwsAccountId', 'DASHBOARD', 'Description', 'Filters', 'Name', 'NextToken', 'Principal', 'ResourceDetails', 'ResourceType', 'SPACE_NAME', 'STRING_EQUALS', 'Space', 'SpaceId', 'SpaceResources', 'SpaceSummaries', 'description', 'name', 'operator', 'quicksight', 'removal', 'resourceArn', 'spaceArn', 'spaceId', 'value']

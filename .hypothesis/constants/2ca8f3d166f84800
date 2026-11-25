@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/cli.py
+# hypothesis_version: 6.151.9
+
+['-', '--agent-id', '--aws_access_key_id', '--aws_session_token', '--cur-version', '--dashboard-id', '--database', '--delete-space', '--fields', '--file', '--folder-id', '--folder-method', '--folder-name', '--force/--noforce', '--log_filename', '--on-drift', '--profile', '--profile_name', '--quicksight-group', '--quicksight-user', '--region_name', '--repair', '--share-method', '--share-with-account', '--simple', '--space', '--verbose', '--yes', '-v', '-y', 'AWS Region', 'Agent id to delete', 'CUR fields', 'Cur Version (1 or 2)', 'Folder to use', 'QuickSight group', 'QuickSight user', 'Sharing method', 'UNDEFINED', 'Windows', '_', '__main__', 'account', 'cid', 'cid-cmd ', 'cid.log', 'color', 'confirm all', 'existing', 'folder', 'log file name', 'new', 'override', 'show', 'source_database', 'source_file', 'space_name', 'user']

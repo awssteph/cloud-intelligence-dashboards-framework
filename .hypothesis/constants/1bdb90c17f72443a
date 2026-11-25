@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/helpers/quicksight/agent_logic.py
+# hypothesis_version: 6.151.9
+
+[100, 300, 350000, '-', '.', '. ', ': ', '<unknown ARN>', 'ActionConnectors', 'AgentName', 'Arn', 'CustomInstructions', 'DASHBOARD', 'DATA_SET', 'ErrorCode', 'ErrorMessage', 'FailedToAddSpaces', 'FailedToRemoveSpaces', 'Identity', 'KNOWLEDGE_BASE', 'Key', 'Name', 'OutputStyle', 'ResponseLength', 'StarterPrompts', 'Tone', 'WelcomeMessage', 'actionConnectors', 'add Space', 'add action connector', 'agent', 'agentId', 'amazonaws-us-gov.com', 'amazonaws.cn', 'aws', 'aws-cn', 'aws-us-gov', 'aws.amazon.com', 'cid-space', 'cid_managed', 'customInstructions', 'dashboard', 'dependsOn', 'deployed', 'description', 'display', 'identity', 'key', 'missing', 'name', 'outputStyle', 'persona', 'present', 'remove Space', 'responseLength', 's', 'spaces', 'starterPrompts', 'summary', 'tone', 'true', 'welcomeMessage', '✓']

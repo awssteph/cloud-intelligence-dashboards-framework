@@ -1,0 +1,4 @@
+# file: /Users/awssteph/Documents/Code Local/github/CID/cloud-intelligence-dashboards-framework/cid/commands/init_qs.py
+# hypothesis_version: 6.151.9
+
+[200, '.', '@', 'AccountName', 'AuthenticationMethod', 'AwsAccountId', 'ENTERPRISE', 'ENTERPRISE_AND_Q', 'Edition', 'Failed to read email', 'IAM_AND_QUICKSIGHT', 'NotificationEmail', 'Status', '[A-Za-z0-9-]', 'account-name', 'no', 'notification-email']
